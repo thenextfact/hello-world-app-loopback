@@ -4,7 +4,7 @@ This application is an example of LoopBack application, it contain the one LoopB
 
 ## How to run?
 
-1. `git clone https://github.com/Code-Crash/hello-world-app-loopback.git`
+1. `git clone https://github.com/thenextfact/hello-world-app-loopback.git`
 2. `cd hello-world-app-loopback`
 3. `npm install`
 4. `node .`
